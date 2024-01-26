@@ -17,6 +17,7 @@ public class Prediccion{
         System.out.print("JULIO\tAGOSTO\tSEPTIEMBRE\n");
         System.out.print("OCTUBRE\tNOVIEMBRE\tDICIEMBRE");
         System.out.print("\n\n");
+        System.out.println("Ingrese 'fin' para terminar el programa ");
     }
     public void comprobar(){
         if(scan.hasNextLine()){
